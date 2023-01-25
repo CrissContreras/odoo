@@ -127,7 +127,9 @@
         <menuitem id="menu_custom_crm_root" name="Custom CRM" sequence="10"/>
 
         <menuitem id="menu_custom_crm_visit_categ" name="Operaciones" parent="menu_custom_crm_root" sequence="0"/>
-        <!-- esto solo tiene la rama dev -->   
-       
+
+        <!--<menuitem id="menu_custom_crm_visit" name="Visitas" parent="menu_custom_crm_visit_categ" sequence="0"
+                  action="action_custom_crm_visit_view"/>-->
+        <!-- esto debo subir a la rama dev manualmente primero comparar y luego subir -->          
     </data>
 </odoo>
