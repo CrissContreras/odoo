@@ -131,7 +131,7 @@
         <!--<menuitem id="menu_custom_crm_visit" name="Visitas" parent="menu_custom_crm_visit_categ" sequence="0"
                   action="action_custom_crm_visit_view"/>-->
         
-        <!-- esto solo en la ddev segunda oportunidad -->
+        <!-- esto esta den requerimiento y debe pasar al dev -->
 
     </data>
 </odoo>
