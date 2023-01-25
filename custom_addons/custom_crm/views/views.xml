@@ -130,5 +130,6 @@
 
         <!--<menuitem id="menu_custom_crm_visit" name="Visitas" parent="menu_custom_crm_visit_categ" sequence="0"
                   action="action_custom_crm_visit_view"/>-->
+        <!-- esto debo subir a la rama dev manualmente primero comparar y luego subir -->          
     </data>
 </odoo>
