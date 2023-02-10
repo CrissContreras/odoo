@@ -134,6 +134,7 @@
         <!-- esto esta den requerimiento y debe pasar al dev -->
         
         <!-- prueba 1 desde la rama requerimiento -->
+        <!-- esto debe dar un conflicto -->
         
     </data>
 </odoo>
