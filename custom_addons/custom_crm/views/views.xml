@@ -132,6 +132,8 @@
                   action="action_custom_crm_visit_view"/>-->
         
         <!-- esto esta den requerimiento y debe pasar al dev -->
-
+        
+        <!-- prueba 1 desde la rama requerimiento -->
+        
     </data>
 </odoo>
