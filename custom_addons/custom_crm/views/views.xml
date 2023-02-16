@@ -4,6 +4,7 @@
             <field name="name">view.custom.crm.visit.form</field>
             <field name="model">custom_crm.visit</field>
             <field name="arch" type="xml">
+                <!-- esto es desde requerimiento hoy jueves -->
                 <form string="Visita">
                     <sheet>
                         <div class="oe_button_box" name="button_box">
@@ -134,7 +135,7 @@
         <!-- esto esta den requerimiento y debe pasar al dev -->
         
         <!-- prueba 1 desde la rama requerimiento -->
-        <!-- esto debe dar un conflicto -->
+        <!-- prueba 2 desde la rama requerimiento -->
         
     </data>
 </odoo>
