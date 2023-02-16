@@ -6,6 +6,7 @@
             <field name="arch" type="xml">
                 <!-- esto es desde requerimiento hoy jueves -->
                 <form string="Visita">
+                    <!-- esto es desde requerimiento hoy jueves 2 -->
                     <sheet>
                         <div class="oe_button_box" name="button_box">
                             <button name="toggle_state" type="object" class="oe_stat_button"
